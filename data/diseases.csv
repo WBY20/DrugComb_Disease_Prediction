@@ -1,0 +1,19 @@
+DiseaseName,TCGA,GTEx,GTEx_category
+Adrenocortical Carcinoma,TCGA Adrenocortical Cancer,Adrenal Gland,GTEX Adrenal Gland
+Uterine Neoplasms,TCGA Uterine Corpus Endometrioid Carcinoma,Uterus,GTEX Uterus
+Testicular Neoplasms,TCGA Testicular Germ Cell Tumor,Testis,GTEX Testis
+Colonic Neoplasms,TCGA Colon Adenocarcinoma,"	Colon",GTEX Colon
+Mesothelioma,TCGA Mesothelioma,,
+Cholangiocarcinoma,TCGA Cholangiocarcinoma,,
+Paraganglioma,TCGA Pheochromocytoma & Paraganglioma,,
+Lung Neoplasms,TCGA Lung Adenocarcinoma,"	Lung",GTEX Lung
+Triple Negative Breast Neoplasms,TCGA Breast Invasive Carcinoma,"	Breast",GTEX Breast
+Esophageal Neoplasms,TCGA Esophageal Carcinoma,Esophagus,GTEX Esophagus
+Sarcoma,TCGA Sarcoma,,
+Histiocytic Sarcoma,TCGA Sarcoma,,
+Thymoma,TCGA Thymoma,"	Blood",GTEX Blood
+"Carcinoma, Pancreatic Ductal",TCGA Pancreatic Adenocarcinoma,"	Pancreas",GTEX Pancreas
+Liver Neoplasms,TCGA Liver Hepatocellular Carcinoma,"	Liver",GTEX Liver
+Pheochromocytoma,TCGA Pheochromocytoma & Paraganglioma,,
+Stomach Neoplasms,TCGA Stomach Adenocarcinoma,Stomach,GTEX Stomach
+Glioblastoma,TCGA Glioblastoma Multiforme,"	Brain",GTEX Brain

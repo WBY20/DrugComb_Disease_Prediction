@@ -1,0 +1,27 @@
+﻿DiseaseName,TCGA
+Adrenocortical Carcinoma,TCGA Adrenocortical Cancer
+Urinary Bladder Neoplasms,TCGA Bladder Urothelial Carcinoma
+"Carcinoma, Lobular",TCGA Breast Invasive Carcinoma
+"Carcinoma, Ductal, Breast",TCGA Breast Invasive Carcinoma
+Inflammatory Breast Neoplasms,TCGA Breast Invasive Carcinoma
+Uterine Cervical Neoplasms,TCGA Cervical & Endocervical Cancer
+Cholangiocarcinoma,TCGA Cholangiocarcinoma
+Colonic Neoplasms,TCGA Colon Adenocarcinoma
+Esophageal Neoplasms,TCGA Esophageal Carcinoma
+Esophageal Squamous Cell Carcinoma,TCGA Esophageal Carcinoma
+Glioblastoma,TCGA Glioblastoma Multiforme
+Squamous Cell Carcinoma of Head and Neck,TCGA Head & Neck Squamous Cell Carcinoma
+"Carcinoma, Hepatocellular",TCGA Liver Hepatocellular Carcinoma
+Lung Neoplasms,TCGA Lung Adenocarcinoma
+Adenocarcinoma of Lung,TCGA Lung Adenocarcinoma
+Mesothelioma,TCGA Mesothelioma
+"Carcinoma, Ovarian Epithelial",TCGA Ovarian Serous Cystadenocarcinoma
+"Carcinoma, Pancreatic Ductal",TCGA Pancreatic Adenocarcinoma
+Paraganglioma,TCGA Pheochromocytoma & Paraganglioma
+Pheochromocytoma,TCGA Pheochromocytoma & Paraganglioma
+Sarcoma,TCGA Sarcoma
+Stomach Neoplasms,TCGA Stomach Adenocarcinoma
+Testicular Neoplasms,TCGA Testicular Germ Cell Tumor
+Thymoma,TCGA Thymoma
+"Thyroid Cancer, Papillary",TCGA Thyroid Carcinoma
+Melanoma,TCGA Uveal Melanoma
