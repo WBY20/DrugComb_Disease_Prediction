@@ -1,0 +1,302 @@
+disease,drugs,drugnumber,source,each_singledrug_diease_pair_in_d_g
+Chagas Disease,"('benzonidazole', 'Clomipramine')",2,SynDrugComb,FALSE
+Adenocarcinoma,"('regorafenib', 'trametinib')",2,SynDrugComb,FALSE
+Small Cell Lung Carcinoma,"('Etoposide', 'Platinum')",2,SynDrugComb,FALSE
+Hypertension,"('Verapamil', 'Irbesartan')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Doxorubicin', 'Mitomycin')",2,SynDrugComb,TRUE
+Tuberculosis,"('Rifampin', 'Isoniazid')",2,SynDrugComb,TRUE
+"Ischemic Attack, Transient","('Clopidogrel', 'Pantoprazole')",2,SynDrugComb,FALSE
+"Leukemia, Myeloid, Acute","('Azacitidine', 'Panobinostat')",2,SynDrugComb,FALSE
+Hepatitis C,"('Sofosbuvir', 'ledipasvir')",2,SynDrugComb,TRUE
+Triple Negative Breast Neoplasms,"('Doxorubicin', 'Mitomycin')",2,SynDrugComb,FALSE
+Leukemia,"('Azacitidine', 'Panobinostat')",2,SynDrugComb,FALSE
+Lymphoma,"('ricolinostat', 'ibrutinib')",2,SynDrugComb,FALSE
+Tuberculosis,"('acetamide', 'Rifampin')",2,SynDrugComb,FALSE
+Melanoma,"('Celecoxib', 'Dacarbazine')",2,SynDrugComb,FALSE
+"Carcinoma, Non-Small-Cell Lung","('Gemcitabine', 'Cisplatin')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Doxorubicin', 'Curcumin')",2,SynDrugComb,TRUE
+Dementia,"('Memantine', 'Donepezil')",2,SynDrugComb,TRUE
+Inflammatory Bowel Diseases,"('Aspirin', 'Berberine')",2,SynDrugComb,FALSE
+Gestational Trophoblastic Disease,"('Paclitaxel', 'Carboplatin')",2,SynDrugComb,FALSE
+Hypertension,"('Atorvastatin', 'olmesartan')",2,SynDrugComb,TRUE
+Malaria,"('Artemether', 'Lumefantrine')",2,SynDrugComb,TRUE
+Candida albicans,"('allicin', 'Fluconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Amiodarone', 'Micafungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Caspofungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Disulfiram')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Flucytosine')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Micafungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Terbinafine')",2,SynDrugComb,FALSE
+Candida albicans,"('Amphotericin B', 'Tetracycline')",2,SynDrugComb,FALSE
+Candida albicans,"('Cyclosporine', 'fenpropimorph')",2,SynDrugComb,FALSE
+Candida albicans,"('Cyclosporine', 'Fluconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Cyclosporine', 'Itraconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Cyclosporine', 'Voriconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Dacarbazine', 'Estradiol')",2,SynDrugComb,FALSE
+Candida albicans,"('Dacarbazine', 'Phenazopyridine')",2,SynDrugComb,FALSE
+Candida albicans,"('Dacarbazine', 'Tamoxifen')",2,SynDrugComb,FALSE
+Candida albicans,"('Disulfiram', 'Pentamidine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'alverine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Amitriptyline')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Berberine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Caspofungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Chlorpromazine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Clomipramine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'fenpropimorph')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Flucytosine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'latrunculin A')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Ofloxacin')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Phenazopyridine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'retigeric acid B')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Terbinafine')",2,SynDrugComb,FALSE
+Candida albicans,"('Fluconazole', 'Wortmannin')",2,SynDrugComb,FALSE
+Candida albicans,"('Itraconazole', 'Amphotericin B')",2,SynDrugComb,FALSE
+Candida albicans,"('Itraconazole', 'Flucytosine')",2,SynDrugComb,FALSE
+Candida albicans,"('Itraconazole', 'retigeric acid B')",2,SynDrugComb,FALSE
+Candida albicans,"('Itraconazole', 'Terbinafine')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Amphotericin B')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'beauvericin')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Berberine')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Cyclosporine')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Disulfiram')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'geldanamycin')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Lovastatin')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Pentamidine')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'retigeric acid B')",2,SynDrugComb,FALSE
+Candida albicans,"('Ketoconazole', 'Ribavirin')",2,SynDrugComb,FALSE
+Candida albicans,"('Lovastatin', 'Fluconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Methoxsalen', 'Tamoxifen')",2,SynDrugComb,FALSE
+Candida albicans,"('Micafungin', 'Fluconazole')",2,SynDrugComb,FALSE
+Candida albicans,"('Micafungin', 'Flucytosine')",2,SynDrugComb,FALSE
+Candida albicans,"('Miconazole', 'Terbinafine')",2,SynDrugComb,FALSE
+Candida albicans,"('Pentamidine', 'Phenazopyridine')",2,SynDrugComb,FALSE
+Candida albicans,"('Pentamidine', 'Ribavirin')",2,SynDrugComb,FALSE
+Candida albicans,"('Pentamidine', 'Tamoxifen')",2,SynDrugComb,FALSE
+Candida albicans,"('Perphenazine', 'Phenazopyridine')",2,SynDrugComb,FALSE
+Candida albicans,"('Perphenazine', 'Tamoxifen')",2,SynDrugComb,FALSE
+Candida albicans,"('Phenazopyridine', 'Phenelzine')",2,SynDrugComb,FALSE
+Candida albicans,"('Phenelzine', 'Tamoxifen')",2,SynDrugComb,FALSE
+Candida albicans,"('posaconazole', 'Caspofungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Voriconazole', 'Micafungin')",2,SynDrugComb,FALSE
+Candida albicans,"('Voriconazole', 'Terbinafine')",2,SynDrugComb,FALSE
+Sarcoma,"('entinostat', 'pazopanib')",2,SynDrugComb,FALSE
+Breast Neoplasms,"('Paclitaxel', 'Doxorubicin')",2,SynDrugComb,TRUE
+Hypercholesterolemia,"('candesartan', 'Rosuvastatin Calcium')",2,SynDrugComb,FALSE
+Glioblastoma,"('Paclitaxel', 'Temozolomide')",2,SynDrugComb,TRUE
+Typhoid Fever,"('Cefixime', 'Ofloxacin')",2,SynDrugComb,FALSE
+Osteosarcoma,"('Doxorubicin', 'Cisplatin')",2,SynDrugComb,TRUE
+Trypanosomiasis,"('Amiodarone', 'Itraconazole')",2,SynDrugComb,FALSE
+Colonic Neoplasms,"('Auranofin', 'Celecoxib')",2,SynDrugComb,FALSE
+Chagas Disease,"('benzonidazole', 'Itraconazole')",2,SynDrugComb,FALSE
+Analgesics,"('Buspirone', 'Fluoxetine')",2,SynDrugComb,FALSE
+"Leukemia, Myeloid, Acute","('Cytarabine', 'Daunorubicin')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Doxorubicin', 'Paclitaxel')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Doxorubicin', 'Camptothecin')",2,SynDrugComb,FALSE
+Neoplasms,"('Vinorelbine', 'Gefitinib')",2,SynDrugComb,TRUE
+"Carcinoma, Hepatocellular","('Curcumin', 'Celecoxib')",2,SynDrugComb,FALSE
+Neoplasms,"('Methotrexate', '10-hydroxycamptothecin')",2,SynDrugComb,FALSE
+Ovarian Neoplasms,"('Carboplatin', 'olaparib')",2,SynDrugComb,FALSE
+Malaria,"('Tacrolimus', 'Hydroxyzine')",2,SynDrugComb,FALSE
+Malaria,"('Raloxifene Hydrochloride', 'Thioridazine')",2,SynDrugComb,FALSE
+Ovarian Neoplasms,"('Wortmannin', 'Cisplatin')",2,SynDrugComb,TRUE
+Triple Negative Breast Neoplasms,"('Gemcitabine', 'Doxorubicin')",2,SynDrugComb,FALSE
+Neoplasms,"('Cytarabine', 'Daunorubicin')",2,SynDrugComb,TRUE
+Small Cell Lung Carcinoma,"('ceritinib', 'Paclitaxel')",2,SynDrugComb,FALSE
+Tuberculosis,"('Isoniazid', 'Rifampin')",2,SynDrugComb,TRUE
+Lymphoma,"('Vincristine', 'Quercetin')",2,SynDrugComb,FALSE
+Neoplasms,"('Paclitaxel', 'Doxorubicin')",2,SynDrugComb,TRUE
+Mouth Neoplasms,"('Rosiglitazone', 'Vincristine')",2,SynDrugComb,FALSE
+Neoplasms,"('Doxorubicin', 'Buthionine Sulfoximine')",2,SynDrugComb,FALSE
+Tuberculosis,"('Cephalosporins', 'Rifampin')",2,SynDrugComb,FALSE
+Stomach Neoplasms,"('veliparib', 'Irinotecan')",2,SynDrugComb,FALSE
+Kidney Neoplasms,"('ABT-737', 'Chloroquine')",2,SynDrugComb,FALSE
+Ischemia,"('geniposide', 'ginsenoside Rg1')",2,SynDrugComb,FALSE
+Schistosomiasis mansoni,"('Omeprazole', 'Praziquantel')",2,SynDrugComb,FALSE
+Hypoxia,"('geniposide', 'ginsenoside Rg1')",2,SynDrugComb,FALSE
+Neoplasms,"('Tocopherols', 'Doxorubicin')",2,SynDrugComb,FALSE
+Neoplasms,"('Camptothecin', 'Doxorubicin')",2,SynDrugComb,TRUE
+Neoplasms,"('ABT-737', 'Camptothecin')",2,SynDrugComb,FALSE
+Neoplasms,"('Doxorubicin', 'Paclitaxel')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Panobinostat', 'Docetaxel')",2,SynDrugComb,FALSE
+Neuroblastoma,"('Fenretinide', 'ABT-737')",2,SynDrugComb,FALSE
+Breast Neoplasms,"('Vincristine', 'Quercetin')",2,SynDrugComb,TRUE
+Gastrointestinal Stromal Tumors,"('ABT-737', 'Imatinib Mesylate')",2,SynDrugComb,FALSE
+Neoplasms,"('Cisplatin', 'Doxorubicin')",2,SynDrugComb,TRUE
+Breast Neoplasms,"('Gossypol', 'taxane')",2,SynDrugComb,FALSE
+Neoplasms,"('Irinotecan', 'Floxuridine')",2,SynDrugComb,FALSE
+Breast Neoplasms,"('Doxorubicin', 'Wortmannin')",2,SynDrugComb,TRUE
+Tuberculosis,"('Diclofenac', 'Streptomycin')",2,SynDrugComb,FALSE
+Bacterial Infections,"('Prochlorperazine', 'methdilazine')",2,SynDrugComb,FALSE
+Epilepsy,"('Tiagabine', 'Lamotrigine')",2,SynDrugComb,FALSE
+Ovarian Neoplasms,"('Topotecan', 'Ifosfamide')",2,SynDrugComb,TRUE
+Leukemia,"('NSC 680410', 'Imatinib Mesylate')",2,SynDrugComb,TRUE
+"Pneumonia, Pneumocystis","('Atovaquone', 'Atovaquone')",2,SynDrugComb,TRUE
+Hypotension,"('Prazosin', 'Verapamil')",2,SynDrugComb,TRUE
+Carcinoma,"('Tamoxifen', 'Rifampin')",2,SynDrugComb,FALSE
+Colorectal Neoplasms,"('Apigenin', 'Fluorouracil')",2,SynDrugComb,FALSE
+Carcinoma,"('Doxorubicin', 'Sorafenib')",2,SynDrugComb,FALSE
+Colonic Neoplasms,"('Indomethacin', 'Piroxicam')",2,SynDrugComb,TRUE
+Neoplasms,"('Atorvastatin', 'Celecoxib')",2,SynDrugComb,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Cisplatin', 'Gemcitabine')",2,SynDrugComb,TRUE
+Small Cell Lung Carcinoma,"('trametinib', 'dabrafenib')",2,SynDrugComb,FALSE
+Arthritis,"('Ethanol', 'isopentenyl pyrophosphate')",2,SynDrugComb,FALSE
+"Carcinoma, Hepatocellular","('Doxorubicin', 'Sorafenib')",2,SynDrugComb,TRUE
+Neoplasms,"('Dexamethasone', 'Doxorubicin')",2,SynDrugComb,FALSE
+Neoplasms,"('pasireotide', 'teriflunomide')",2,SynDrugComb,FALSE
+Fibrosarcoma,"('caffeine citrate', 'Cisplatin')",2,SynDrugComb,FALSE
+Glioblastoma,"('Doxorubicin', 'Erlotinib Hydrochloride')",2,SynDrugComb,FALSE
+Acne Vulgaris,"('Tetracycline', 'Tretinoin')",2,SynDrugComb,TRUE
+Invasive Fungal Infections,"('geldanamycin', 'Fluconazole')",2,SynDrugComb,FALSE
+Head and Neck Neoplasms,"('Doxorubicin', 'Curcumin')",2,SynDrugComb,TRUE
+Ovarian Neoplasms,"('olaparib', 'palbociclib')",2,SynDrugComb,FALSE
+Melanoma,"('Sorafenib', 'Vemurafenib')",2,SynDrugComb,TRUE
+Small Cell Lung Carcinoma,"('elemene', 'celastrol')",2,SynDrugComb,FALSE
+Neoplasms,"('Doxorubicin', 'Irinotecan')",2,SynDrugComb,TRUE
+Cold Injury,"('Ambroxol', 'Pregabalin')",2,SynDrugComb,FALSE
+Stroke,"('Mannitol', 'Temozolomide')",2,SynDrugComb,FALSE
+"Diabetes Mellitus, Type 2","('dapagliflozin', 'Metformin')",2,SynDrugComb,FALSE
+Prostatic Hyperplasia,"('Doxazosin', 'Finasteride')",2,SynDrugComb,TRUE
+Obesity,"('Phentermine', 'Topiramate')",2,SynDrugComb,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Carboplatin', 'Pemetrexed')",2,SynDrugComb,TRUE
+Hepatitis C,"('ledipasvir', 'Sofosbuvir')",2,SynDrugComb,TRUE
+Hypertension,"('Olmesartan Medoxomil', 'Hydrochlorothiazide')",2,SynDrugComb,TRUE
+Psoriasis,"('calcipotriene', 'betamethasone-17,21-dipropionate')",2,SynDrugComb,TRUE
+"Carcinoma, Lewis Lung","('tetramethylpyrazine', 'Cisplatin')",2,SynDrugComb,FALSE
+Neuralgia,"('Pioglitazone', 'Cycloserine')",2,SynDrugComb,FALSE
+Chronic Pain,"('Nortriptyline', 'Morphine')",2,SynDrugComb,FALSE
+Neoplasms,"('Fluorouracil', 'Paclitaxel')",2,SynDrugComb,TRUE
+Common Cold,"('Ibuprofen', 'Pseudoephedrine')",2,SynDrugComb,FALSE
+"Leukemia, Prolymphocytic, T-Cell","('Tacrolimus', 'temsirolimus', 'venetoclax')",3,SynDrugComb,FALSE
+HIV Infections,"('Lopinavir', 'Ritonavir', 'Tenofovir')",3,SynDrugComb,TRUE
+Hypertension,"('Amlodipine', 'Indapamide', 'Perindopril')",3,SynDrugComb,TRUE
+HIV Infections,"('Zidovudine', 'efavirenz', 'Lamivudine')",3,SynDrugComb,TRUE
+Seizures,"('Carbamazepine', 'Phenobarbital', 'Topiramate')",3,SynDrugComb,TRUE
+Ulcer,"('Metronidazole', 'Pantoprazole', 'Clarithromycin')",3,SynDrugComb,TRUE
+"Carcinoma, Neuroendocrine","('Cisplatin', 'Capecitabine', 'Dacarbazine')",3,SynDrugComb,FALSE
+Helicobacter Infections,"('Omeprazole', 'Clarithromycin', 'Tinidazole')",3,SynDrugComb,TRUE
+Essential Hypertension,"('Telmisartan', 'Amlodipine', 'Hydrochlorothiazide')",3,SynDrugComb,FALSE
+Lung Diseases,"('Rifampin', 'Ethambutol', 'Clarithromycin')",3,SynDrugComb,FALSE
+Neoplasms,"('Levofloxacin', 'Nalidixic Acid', 'Penicillin G')",3,SynDrugComb,FALSE
+Endocarditis,"('quinupristin-dalfopristin', 'Doxycycline', 'Rifampin')",3,SynDrugComb,FALSE
+HIV Infections,"('Delavirdine', 'Zidovudine', 'Didanosine')",3,SynDrugComb,TRUE
+Small Cell Lung Carcinoma,"('Doxorubicin', 'Cyclophosphamide', 'Etoposide')",3,SynDrugComb,TRUE
+"Diabetes Mellitus, Type 2","('dapagliflozin', 'saxagliptin', 'Metformin')",3,SynDrugComb,FALSE
+Diabetes Mellitus,"('mangiferin', 'Metformin', 'Gliclazide')",3,SynDrugComb,FALSE
+Neoplasms,"('Doxorubicin', 'Fluorouracil', 'Leucovorin')",3,SynDrugComb,TRUE
+Stevens-Johnson Syndrome,"('Allopurinol', 'Carbamazepine', 'Phenytoin')",3,SynDrugComb,TRUE
+Brain Ischemia,"('Lamotrigine', 'Minocycline', 'Lovastatin')",3,SynDrugComb,FALSE
+"Tuberculosis, Pulmonary","('Ethambutol', 'Isoniazid', 'Rifampin', 'Pyrazinamide')",4,SynDrugComb,TRUE
+Typhoid Fever,"('Nalidixic Acid', 'Ampicillin')",2,TTD,FALSE
+Migraine Disorders,"('Promethazine', 'Sumatriptan')",2,TTD,FALSE
+Melanoma,"('trametinib', 'dabrafenib')",2,TTD,TRUE
+Hypertension,"('Atorvastatin', 'Aspirin', 'Ramipril')",3,TTD,TRUE
+Cardiovascular Diseases,"('Sitagliptin Phosphate', 'Atorvastatin')",2,TTD,FALSE
+"Carcinoma, Non-Small-Cell Lung","('dabrafenib', 'trametinib')",2,TTD,FALSE
+Prostatic Hyperplasia,"('Dutasteride', 'Tamsulosin')",2,TTD,TRUE
+Prostatic Neoplasms,"('Dutasteride', 'Tamsulosin')",2,TTD,FALSE
+Cytomegalovirus Infections,"('Foscarnet', 'Cidofovir')",2,TTD,FALSE
+Diabetes Complications,"('Rosiglitazone', 'Metformin')",2,TTD,FALSE
+Acne Vulgaris,"('clindamycin phosphate', 'Benzoyl Peroxide')",2,TTD,FALSE
+Opium Dependence,"('Buprenorphine', 'Naloxone')",2,TTD,FALSE
+"Diabetes Mellitus, Type 2","('Sitagliptin Phosphate', 'Metformin')",2,TTD,TRUE
+HIV Infections,"('Lopinavir', 'Ritonavir')",2,TTD,TRUE
+Ulcer,"('Omeprazole', 'Lansoprazole')",2,TTD,TRUE
+"Diabetes Mellitus, Type 2","('Rosiglitazone', 'Simvastatin')",2,TTD,FALSE
+Diabetes Complications,"('empagliflozin', 'Linagliptin', 'Metformin')",3,TTD,FALSE
+"Hypertension, Pulmonary","('ambrisentan', 'Tadalafil')",2,TTD,FALSE
+Hepatitis C,"('ombitasvir', 'paritaprevir', 'Ritonavir')",3,TTD,FALSE
+"Diabetes Mellitus, Type 2","('Linagliptin', 'Pioglitazone')",2,TTD,TRUE
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,"('Daunorubicin', 'Vincristine', 'Prednisone')",3,nccn,TRUE
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,"('Doxorubicin', 'Vincristine', 'Prednisone', 'Methotrexate')",4,nccn,TRUE
+"Leukemia, Myeloid, Acute","('Cytarabine', 'Mitoxantrone')",2,nccn,TRUE
+"Leukemia, Myeloid, Acute","('Cytarabine', 'Daunorubicin', 'midostaurin')",3,nccn,TRUE
+"Leukemia, Myeloid, Acute","('Cytarabine', 'Daunorubicin', 'quizartinib')",3,nccn,TRUE
+"Leukemia, Myeloid, Acute","('Decitabine', 'venetoclax')",2,nccn,FALSE
+"Leukemia, Myeloid, Acute","('Azacitidine', 'venetoclax')",2,nccn,FALSE
+Adenocarcinoma,"('Fluorouracil', 'Leucovorin')",2,nccn,TRUE
+Adenocarcinoma,"('Gemcitabine', 'Capecitabine')",2,nccn,TRUE
+Adenocarcinoma,"('Gemcitabine', 'Cisplatin')",2,nccn,TRUE
+Anus Neoplasms,"('Fluorouracil', 'Mitomycin')",2,nccn,TRUE
+Anus Neoplasms,"('Capecitabine', 'Mitomycin')",2,nccn,FALSE
+Anus Neoplasms,"('Carboplatin', 'Paclitaxel')",2,nccn,FALSE
+Urinary Bladder Neoplasms,"('Methotrexate', 'Vinblastine', 'Doxorubicin', 'Cisplatin')",4,nccn,TRUE
+Urinary Bladder Neoplasms,"('Gemcitabine', 'Cisplatin')",2,nccn,TRUE
+Bone Neoplasms,"('Vincristine', 'Doxorubicin', 'Cyclophosphamide')",3,nccn,FALSE
+Bone Neoplasms,"('Vincristine', 'Doxorubicin', 'Ifosfamide', 'Dactinomycin')",4,nccn,FALSE
+Bone Neoplasms,"('Vincristine', 'Ifosfamide', 'Doxorubicin', 'Etoposide')",4,nccn,FALSE
+Bone Neoplasms,"('Methotrexate', 'Cisplatin', 'Doxorubicin')",3,nccn,FALSE
+Bone Neoplasms,"('Doxorubicin', 'Cisplatin', 'Ifosfamide', 'Methotrexate')",4,nccn,FALSE
+Breast Neoplasms,"('Doxorubicin', 'Cyclophosphamide')",2,nccn,TRUE
+Breast Neoplasms,"('Docetaxel', 'Cyclophosphamide')",2,nccn,TRUE
+Breast Neoplasms,"('Fulvestrant', 'ribociclib')",2,nccn,FALSE
+Breast Neoplasms,"('Fulvestrant', 'abemaciclib')",2,nccn,TRUE
+Breast Neoplasms,"('Fulvestrant', 'palbociclib')",2,nccn,TRUE
+Uterine Cervical Neoplasms,"('Cisplatin', 'Etoposide')",2,nccn,FALSE
+"Leukemia, Lymphocytic, Chronic, B-Cell","('ibrutinib', 'venetoclax')",2,nccn,FALSE
+Colonic Neoplasms,"('Oxaliplatin', 'Leucovorin', 'Fluorouracil')",3,nccn,TRUE
+Colonic Neoplasms,"('Oxaliplatin', 'Capecitabine')",2,nccn,TRUE
+Stomach Neoplasms,"('5-fluoropyrimidine', 'Oxaliplatin')",2,nccn,FALSE
+Stomach Neoplasms,"('5-fluoropyrimidine', 'Cisplatin')",2,nccn,FALSE
+Head and Neck Neoplasms,"('Gemcitabine', 'Cisplatin')",2,nccn,FALSE
+Head and Neck Neoplasms,"('Docetaxel', 'Cisplatin', 'Fluorouracil')",3,nccn,FALSE
+Head and Neck Neoplasms,"('Cisplatin', 'Fluorouracil')",2,nccn,TRUE
+Head and Neck Neoplasms,"('Docetaxel', 'Cisplatin')",2,nccn,FALSE
+Histiocytic Sarcoma,"('Sirolimus', 'Prednisone')",2,nccn,FALSE
+Histiocytic Sarcoma,"('Vinblastine', 'Prednisone')",2,nccn,FALSE
+Hodgkin Disease,"('Doxorubicin', 'Bleomycin', 'Vinblastine', 'Dacarbazine')",4,nccn,TRUE
+Hodgkin Disease,"('Bleomycin', 'Etoposide', 'Doxorubicin', 'Cyclophosphamide', 'Vincristine', 'Procarbazine', 'Prednisone')",7,nccn,TRUE
+Mesothelioma,"('Cisplatin', 'Pemetrexed')",2,nccn,TRUE
+Multiple Myeloma,"('Bortezomib', 'Lenalidomide', 'Dexamethasone')",3,nccn,TRUE
+Multiple Myeloma,"('carfilzomib', 'Lenalidomide', 'Dexamethasone')",3,nccn,TRUE
+Multiple Myeloma,"('carfilzomib', 'pomalidomide', 'Dexamethasone')",3,nccn,TRUE
+Multiple Myeloma,"('pomalidomide', 'Bortezomib', 'Dexamethasone')",3,nccn,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Cisplatin', 'Etoposide')",2,nccn,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Paclitaxel', 'Carboplatin')",2,nccn,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Carboplatin', 'Gemcitabine')",2,nccn,TRUE
+"Carcinoma, Non-Small-Cell Lung","('Carboplatin', 'Paclitaxel')",2,nccn,TRUE
+"Neoplasms, Unknown Primary","('Oxaliplatin', 'Capecitabine')",2,nccn,FALSE
+"Neoplasms, Unknown Primary","('Gemcitabine', 'Cisplatin')",2,nccn,FALSE
+"Neoplasms, Unknown Primary","('Irinotecan', 'Leucovorin', 'Fluorouracil')",3,nccn,FALSE
+"Neoplasms, Unknown Primary","('Oxaliplatin', 'Leucovorin', 'Fluorouracil')",3,nccn,FALSE
+"Neoplasms, Unknown Primary","('Paclitaxel', 'Carboplatin')",2,nccn,TRUE
+Ovarian Neoplasms,"('Paclitaxel', 'Carboplatin')",2,nccn,TRUE
+Ovarian Neoplasms,"('Fluorouracil', 'Leucovorin', 'Oxaliplatin')",3,nccn,FALSE
+Ovarian Neoplasms,"('Capecitabine', 'Oxaliplatin')",2,nccn,FALSE
+Ovarian Neoplasms,"('Docetaxel', 'Carboplatin')",2,nccn,TRUE
+Pancreatic Neoplasms,"('Gemcitabine', 'Cisplatin')",2,nccn,TRUE
+Penile Neoplasms,"('Paclitaxel', 'Ifosfamide', 'Cisplatin')",3,nccn,FALSE
+Penile Neoplasms,"('Fluorouracil', 'Cisplatin')",2,nccn,FALSE
+Rectal Neoplasms,"('Fluorouracil', 'Leucovorin', 'Oxaliplatin')",3,nccn,FALSE
+Rectal Neoplasms,"('Capecitabine', 'Oxaliplatin')",2,nccn,TRUE
+Rectal Neoplasms,"('Oxaliplatin', 'Leucovorin', 'Irinotecan', 'Fluorouracil')",4,nccn,FALSE
+Sarcoma,"('Doxorubicin', 'Ifosfamide', 'Mesna')",3,nccn,TRUE
+Sarcoma,"('Ifosfamide', 'Epirubicin', 'Mesna')",3,nccn,TRUE
+Sarcoma,"('Methotrexate', 'Vinorelbine')",2,nccn,FALSE
+Sarcoma,"('Mesna', 'Doxorubicin', 'Ifosfamide', 'Dacarbazine')",4,nccn,TRUE
+Sarcoma,"('Gemcitabine', 'Docetaxel')",2,nccn,FALSE
+Sarcoma,"('Gemcitabine', 'Dacarbazine')",2,nccn,FALSE
+Sarcoma,"('Doxorubicin', 'Dacarbazine')",2,nccn,TRUE
+"Carcinoma, Squamous Cell","('Cisplatin', 'Fluorouracil')",2,nccn,FALSE
+"Lymphoma, T-Cell","('Cyclophosphamide', 'Doxorubicin', 'Vincristine', 'Prednisone')",4,nccn,TRUE
+"Lymphoma, T-Cell","('Cyclophosphamide', 'Doxorubicin', 'Vincristine', 'Etoposide', 'Prednisone')",5,nccn,TRUE
+"Lymphoma, T-Cell","('Gemcitabine', 'pegaspargase', 'Oxaliplatin')",3,nccn,FALSE
+"Lymphoma, T-Cell","('Dexamethasone', 'Cisplatin', 'Gemcitabine', 'pegaspargase')",4,nccn,FALSE
+"Lymphoma, T-Cell","('Dexamethasone', 'Methotrexate', 'Ifosfamide', 'pegaspargase', 'Etoposide')",5,nccn,FALSE
+Testicular Neoplasms,"('Etoposide', 'Cisplatin', 'Bleomycin')",3,nccn,TRUE
+Testicular Neoplasms,"('Etoposide', 'Cisplatin')",2,nccn,TRUE
+Testicular Neoplasms,"('Etoposide', 'Cisplatin', 'Ifosfamide')",3,nccn,TRUE
+Thymoma,"('Cisplatin', 'Doxorubicin', 'Cyclophosphamide')",3,nccn,FALSE
+Thymoma,"('Doxorubicin', 'Cisplatin', 'Vincristine', 'Cyclophosphamide')",4,nccn,FALSE
+Thymoma,"('Cisplatin', 'Etoposide')",2,nccn,FALSE
+Thymoma,"('Etoposide', 'Ifosfamide', 'Cisplatin')",3,nccn,FALSE
+Thymoma,"('Carboplatin', 'Paclitaxel')",2,nccn,FALSE
+Uterine Neoplasms,"('Carboplatin', 'Paclitaxel')",2,nccn,FALSE
+Uterine Neoplasms,"('Carboplatin', 'Docetaxel')",2,nccn,FALSE
+Uterine Neoplasms,"('Everolimus', 'Letrozole')",2,nccn,FALSE
+Uterine Neoplasms,"('Megestrol Acetate', 'Tamoxifen')",2,nccn,FALSE
+Uterine Neoplasms,"('Docetaxel', 'Gemcitabine')",2,nccn,FALSE
+Uterine Neoplasms,"('Doxorubicin', 'Trabectedin')",2,nccn,FALSE
+Uterine Neoplasms,"('Doxorubicin', 'Ifosfamide')",2,nccn,FALSE
+Uterine Neoplasms,"('Doxorubicin', 'Dacarbazine')",2,nccn,FALSE
+Vulvar Neoplasms,"('Cisplatin', 'Paclitaxel')",2,nccn,FALSE
+Vulvar Neoplasms,"('Carboplatin', 'Paclitaxel')",2,nccn,FALSE
