@@ -1,2 +1,2 @@
 # DrugComb_Disease_Prediction
-![GA.png]
+![GA](GA.png)
