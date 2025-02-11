@@ -8,6 +8,7 @@ A network-based algorithm for drug/drug combination reposition
 ![GA](GA.png)
 
 ## Cite us
+```bibtex
 @article{https://doi.org/10.1002/advs.202409130,
 author = {Liu, Qingyuan and Chen, Zizhen and Wang, Boyang and Pan, Boyu and Zhang, Zhuoyu and Shen, Miaomiao and Zhao, Weibo and Zhang, Tingyu and Li, Shao and Liu, Liren},
 title = {Leveraging Network Target Theory for Efficient Prediction of Drug-Disease Interactions: A Transfer Learning Approach},
